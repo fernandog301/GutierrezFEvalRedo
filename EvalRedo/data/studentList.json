@@ -1,0 +1,64 @@
+{
+    "studentList": [
+        {
+            "firstName": "Avery",
+            "lastName": "Hillstrom",
+            "email": "ahillstrom@codestack.co"
+        },
+        {
+            "firstName": "Ellie",
+            "lastName": "Rasuli",
+            "email": "erasuli@codestack.co"
+        },
+        {
+            "firstName": "Jerrod",
+            "lastName": "Packard",
+            "email": "jpackard@codestack.co"
+        },
+        {
+            "firstName": "Jacob",
+            "lastName": "DeKok",
+            "email": "jdekok@codestack.co"
+        },
+        {
+            "firstName": "Isaiah",
+            "lastName": "Ferguson",
+            "email": "iferguson@codestack.co"
+        },
+        {
+            "firstName": "Fernando",
+            "lastName": "Gutierrez",
+            "email": "fgutierrez@codestack.co"
+        },
+        {
+            "firstName": "Liam",
+            "lastName": "Escober",
+            "email": "lescober@codestack.co"
+        },
+        {
+            "firstName": "Aiden",
+            "lastName": "Foo",
+            "email": "afoo@codestack.co"
+        },
+        {
+            "firstName": "Caleb",
+            "lastName": "Sylvia",
+            "email": "csylvia@codestack.co"
+        },
+        {
+            "firstName": "Marcos",
+            "lastName": "Rodriguez",
+            "email": "mrodriguez@codestack.co"
+        },
+        {
+            "firstName": "Ken",
+            "lastName": "Martinez",
+            "email": "kmartinez@codestack.co"
+        },
+        {
+            "firstName": "Jessie",
+            "lastName": "Lamzon",
+            "email": "jlamzon@codestack.co"
+        }
+    ]
+}
